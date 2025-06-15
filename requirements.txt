@@ -1,0 +1,10 @@
+# requirements.txt
+
+# Data handling and numerical operations
+pandas
+numpy
+openpyxl # Necesario para que pandas lea archivos .xlsx
+
+# Machine Learning libraries
+scikit-learn
+mord
